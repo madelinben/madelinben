@@ -1,5 +1,4 @@
-### Hi there I am [Ben](https://github.com/madelinben).
-
+### Hello There! I'm [Ben](https://github.com/madelinben).
 I'm a Full Stack Web Developer 
 and Software Engineering Undergraduate 
 currently studying at 
@@ -27,7 +26,7 @@ Ask me anything! You can reach me through my socials here:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madelinben/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben.madelin@ntlworld.com)
 
-### SKILLS
+### Proficient Skills
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -64,7 +63,7 @@ Ask me anything! You can reach me through my socials here:
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-## My Github Status
+### Github Status
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=madelinben&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/madelinben/github-readme-stats)
 
 
