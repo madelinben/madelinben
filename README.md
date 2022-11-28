@@ -22,7 +22,7 @@ Ask me about anything [here](https://github.com/madelinben/madelinben/issues)
 
 Ask me anything! You can reach me through my socials here:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=stack-overflow&logoColor=#FF7139)](http://www.madelinben.co.uk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=stack-overflow&logoColor=#FF7139)](http://madelinben.co.uk/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madelinben/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben.madelin@ntlworld.com)
 
